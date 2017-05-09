@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD3)
+#######################################
+
+IntorobotClass	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+connected	KEYWORD2
+connect     KEYWORD2
+disconnect	KEYWORD2
+publish     KEYWORD2
+subscribe	KEYWORD2
+unsubscribe	KEYWORD2
+deviceInfo	KEYWORD2
+process     KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
+
+

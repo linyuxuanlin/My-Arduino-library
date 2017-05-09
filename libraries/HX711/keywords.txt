@@ -1,0 +1,6 @@
+Hx711	KEYWORD1
+setScale	KEYWORD2
+setOffset	KEYWORD2
+getValue	KEYWORD2
+getAverageValue	KEYWORD2
+getWeight	KEYWORD2
